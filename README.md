@@ -1,13 +1,17 @@
 Welcome to My GitHub 👋
-Hi there! I'm Muhammad Yaqoob a passionate learner diving into the exciting world of web and app development. Currently, I'm focusing on mastering HTML, CSS, and JavaScript, and I'm exploring frameworks like HTML, React: JavaScript, Bootstrap,Node.j.
 
-📌 What I'm Working On
-🚀 Building responsive and dynamic websites.
-💻 Sharpening my skills in front-end and back-end technologies.
-📚 What I’m Learning
-Web Development: HTML, CSS, JavaScript.
-🤝 Let’s Collaborate!
-I’m open to collaborating on beginner-friendly projects and hackathons. If you have any ideas or want to work together, feel free to reach out!
+Hi there! I'm Muhammad Yaqoob — a passionate learner transitioning into the world of **Data Science**. With a keen interest in solving real-world problems through data, I'm diving deep into statistics, data analysis, and machine learning.
+
+📌 What I'm Working On  
+🚀 Building skills in data analysis and visualization  
+💻 Working on projects involving Python, Pandas, NumPy, and Matplotlib  
+
+📚 What I’m Learning  
+🧠 Data Science: Python, SQL, Statistics, Machine Learning  
+📊 Visualization tools like Seaborn, Plotly, and Dash  
+
+🤝 Let’s Collaborate!  
+I’m open to collaborating on beginner-friendly data projects and competitions. If you have an idea or want to connect, feel free to reach out!
 
 🌐 How to Reach Me
 Email: myaqoobbrohi467@gmail.com 
